@@ -1,4 +1,4 @@
-# gatsby-plugin-google-analytics
+# gatsby-plugin-google-analyticss
 
 Easily add Google Analytics to your Gatsby site.
 
